@@ -9,10 +9,6 @@ A simple, stylish digital clock component built with React and Vite.
 - Stylish design with backdrop blur effect
 - Responsive layout
 
-## Preview
-
-![Preview of the component](./src/assets/clouds.jpeg "Preview of the component")
-
 ## Technologies Used
 
 - React 18.3.1
